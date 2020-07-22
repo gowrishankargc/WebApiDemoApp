@@ -12,7 +12,7 @@ namespace DemoApi.Controllers
         // GET: api/People
         public IEnumerable<string> Get()
         {
-            return new string[] { "value1", "value2" };
+            return new string[] { "values1", "values2" };
         }
 
         // GET: api/People/5
